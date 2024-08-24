@@ -121,7 +121,7 @@
   },
   {
     "name": "Torrent",
-    "description": "",
+    "description": "Пакет для работы с Торрентом",
     "author": "MWGuy",
     "image": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/images/Torrent.png",
     "version": "1.0.0",
@@ -168,11 +168,12 @@
     "url": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/bundles/jphp-yandex-disc-1.0.0.dnbundle"
   },
   {
-    "name": "TEST",
-    "description": "TESTTESTTESTTESTsk API",
-    "author": "TEST",
-    "image": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/images/jphp-yandex-disc.png",
+    "name": "Gzip",
+    "description": "Поддержка gzip функций из оригинального php",
+    "author": "Ts.Saltan",
+    "image": "https://raw.githubusercontent.com/deaglemeister/ManagerBundleFXE/main/images/gzip.png",
     "version": "1.0.0",
-    "url": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/bundles/jphp-yandex-disc-1.0.0.dnbundle"
+    "url": "https://raw.githubusercontent.com/deaglemeister/ManagerBundleFXE/main/bundles/dn-gzip-bundle.dnbundle"
   }
+  
 ]

@@ -167,13 +167,13 @@
     "image": "jphp-yandex-disc.png",
     "version": "1.0.0",
     "url": "jphp-yandex-disc-1.0.0.dnbundle"
-  }, 
+  }
   {
-    "name": "texstr",
-    "description": "test",
-    "author": "silentrs",
-    "image": "jphp-yandex-disc.png",
+    "name": "Gzip",
+    "description": "Поддержка gzip функций из оригинального php",
+    "author": "Ts.Saltan",
+    "image": "https://raw.githubusercontent.com/deaglemeister/ManagerBundleFXE/main/images/gzip.png",
     "version": "1.0.0",
-    "url": "jphp-yandex-disc-1.0.0.dnbundle"
+    "url": "dn-gzip-bundle.dnbundle"
   }
 ]
