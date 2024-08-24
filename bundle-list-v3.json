@@ -175,7 +175,7 @@
       "author": "Ts.Saltan",
       "image": "https://raw.githubusercontent.com/deaglemeister/ManagerBundleFXE/main/images/gzip.png",
       "version": "1.0.0",
-      "url": "https://raw.githubusercontent.com/deaglemeister/ManagerBundleFXE/main/bundles/dn-gzip-bundle.dnbundle"
+      "url": "bundles/dn-gzip-bundle.dnbundle"
     },
     {
       "name": "Updater",
@@ -183,7 +183,7 @@
       "author": "Ts.Saltan",
       "image": "https://raw.githubusercontent.com/deaglemeister/ManagerBundleFXE/main/images/updater.png",
       "version": "1.0.0",
-      "url": "https://raw.githubusercontent.com/deaglemeister/ManagerBundleFXE/main/bundles/dn-updater-bundle_dnbundle.dnbundle"
+      "url": "bundles/dn-updater-bundle_dnbundle.dnbundle"
     }
   ],
   "fonts": [
