@@ -167,5 +167,13 @@
     "image": "jphp-yandex-disc.png",
     "version": "1.0.0",
     "url": "jphp-yandex-disc-1.0.0.dnbundle"
+  }, 
+  {
+    "name": "texstr",
+    "description": "test",
+    "author": "silentrs",
+    "image": "jphp-yandex-disc.png",
+    "version": "1.0.0",
+    "url": "jphp-yandex-disc-1.0.0.dnbundle"
   }
 ]

@@ -168,6 +168,14 @@
       "image": "jphp-yandex-disc.png",
       "version": "1.0.0",
       "url": "bundles/jphp-yandex-disc-1.0.0.dnbundle"
+    },
+    {
+      "name": "test",
+      "description": "test",
+      "author": "silentrs",
+      "image": "jphp-yandex-disc.png",
+      "version": "1.0.0",
+      "url": "bundles/jphp-yandex-disc-1.0.0.dnbundle"
     }
   ],
   "fonts": [
