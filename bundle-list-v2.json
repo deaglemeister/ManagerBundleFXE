@@ -172,7 +172,7 @@
     "name": "Gzip",
     "description": "Поддержка gzip функций из оригинального php",
     "author": "Ts.Saltan",
-    "image": "https://raw.githubusercontent.com/deaglemeister/ManagerBundleFXE/main/images/gzip.png",
+    "image": "gzip.png",
     "version": "1.0.0",
     "url": "dn-gzip-bundle.dnbundle"
   },
@@ -180,7 +180,7 @@
     "name": "Updater",
     "description": "Проверка обновлений с GitHub",
     "author": "Ts.Saltan",
-    "image": "https://raw.githubusercontent.com/deaglemeister/ManagerBundleFXE/main/images/updater.png",
+    "image": "updater.png",
     "version": "1.0.0",
     "url": "dn-updater-bundle_dnbundle.dnbundle"
   }
