@@ -167,4 +167,12 @@
     "version": "1.0.0",
     "url": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/bundles/jphp-yandex-disc-1.0.0.dnbundle"
   }
+  {
+    "name": "TEST",
+    "description": "TESTTESTTESTTESTsk API",
+    "author": "TEST",
+    "image": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/images/jphp-yandex-disc.png",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/bundles/jphp-yandex-disc-1.0.0.dnbundle"
+  }
 ]
