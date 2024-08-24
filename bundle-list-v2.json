@@ -167,7 +167,7 @@
     "image": "jphp-yandex-disc.png",
     "version": "1.0.0",
     "url": "jphp-yandex-disc-1.0.0.dnbundle"
-  }
+  },
   {
     "name": "Gzip",
     "description": "Поддержка gzip функций из оригинального php",

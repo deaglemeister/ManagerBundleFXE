@@ -168,12 +168,12 @@
     "url": "https://raw.githubusercontent.com/silentrs-group/dn-bundles/main/bundles/jphp-yandex-disc-1.0.0.dnbundle"
   },
   {
-    "name": "Gzip",
-    "description": "Поддержка gzip функций из оригинального php",
+    "name": "Updater",
+    "description": "Проверка обновлений с GitHub",
     "author": "Ts.Saltan",
-    "image": "https://raw.githubusercontent.com/deaglemeister/ManagerBundleFXE/main/images/gzip.png",
+    "image": "https://raw.githubusercontent.com/deaglemeister/ManagerBundleFXE/main/images/updater.png",
     "version": "1.0.0",
-    "url": "https://raw.githubusercontent.com/deaglemeister/ManagerBundleFXE/main/bundles/dn-gzip-bundle.dnbundle"
+    "url": "ttps://raw.githubusercontent.com/deaglemeister/ManagerBundleFXE/main/bundles/dn-updater-bundle_dnbundle.dnbundle"
   }
   
 ]
