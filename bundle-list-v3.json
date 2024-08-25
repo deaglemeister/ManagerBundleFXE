@@ -184,6 +184,14 @@
       "image": "updater.png",
       "version": "1.0.0",
       "url": "bundles/dn-updater-bundle_dnbundle.dnbundle"
+    },
+    {
+      "name": "Тёмная тема для DevelNext",
+      "description": "Пакет для добавления тёмной темы",
+      "author": "silentrs",
+      "image": "icon32.png",
+      "version": "1.0.0",
+      "url": "bundles/dark-theme.dnbundle"
     }
   ],
   "fonts": [
